@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+To use this app, get your apikey from newapi.org 
+create a file named as .env.local in mail folder 
+enter REACT_APP_NEWS_API="YOUR API KEY HERE"
+Install node modules,React-RouterDom , infinity scroll and Top bar modules 
